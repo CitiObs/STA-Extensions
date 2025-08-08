@@ -7,5 +7,5 @@ Javascript code for creating aggregations.
 ## PT1H
 1 hour period
 
-## PT1D
+## P1D
 1 day period
